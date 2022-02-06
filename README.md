@@ -1,2 +1,6 @@
 # SQL_DataExploration
 Portfolio_Project : SQL data exploration
+
+
+-- Covid 19 Data Exploration :
+   Skills used: Joins, CTE's, Temp Tables creation, Windows Functions, Aggregate Functions, Creating Views.
