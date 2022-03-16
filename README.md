@@ -1,5 +1,5 @@
 # SQL_DataExploration
-Portfolio_Project : SQL data exploration
+Data Analyst Portfolio Project : SQL data exploration
 
 
 -- Covid 19 Data Exploration :
